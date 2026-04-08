@@ -93,10 +93,6 @@ SPECIALTY   :: Gameplay Logic / Server Architecture
   <img src="https://raw.githubusercontent.com/GoldenPig1205/GoldenPig1205/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GoldenPig1205/GoldenPig1205/output/ocean.gif"/>
-</p>
-
 ---
 
 ## 👁 SIGNAL TRACKING
