@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/830246342491111485/1491469664067387402/GoldenPig1205_-_rbon.png" width="160" style="border-radius:50%; border:3px solid #00FFC6; box-shadow:0 0 25px #00FFC6;"/>
+  <img src="https://cdn.discordapp.com/attachments/830246342491111485/1491469664067387402/GoldenPig1205_-_rbon.png?ex=69d7cede&is=69d67d5e&hm=eddef9e65bc44957d263544e31d17ca412034c7ef16006406b26adf68ede2967&" width="160" style="border-radius:50%; border:3px solid #00FFC6; box-shadow:0 0 25px #00FFC6;"/>
 </p>
 
 <p align="center">
@@ -62,12 +62,6 @@ SPECIALTY   :: Gameplay Logic / Server Architecture
 
 ---
 
-## 🟢 LIVE STATUS
-
-<!--DISCORD_STATUS-->
-
----
-
 ## ⚙️ STACK
 
 <p align="center">
@@ -102,19 +96,6 @@ SPECIALTY   :: Gameplay Logic / Server Architecture
 <p align="center">
   <img src="https://raw.githubusercontent.com/GoldenPig1205/GoldenPig1205/output/ocean.gif"/>
 </p>
-
----
-
-## 🧬 SYSTEM LOG
-
-<!--SYSTEM_LOG_START-->
-<!--SYSTEM_LOG_END-->
-
----
-
-## 🚀 PROJECTS
-
-<!--PROJECTS-->
 
 ---
 
