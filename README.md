@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/830246342491111485/1491469664067387402/GoldenPig1205_-_rbon.png?ex=69d7cede&is=69d67d5e&hm=eddef9e65bc44957d263544e31d17ca412034c7ef16006406b26adf68ede2967&" width="160" style="border-radius:50%; border:3px solid #00FFC6; box-shadow:0 0 25px #00FFC6;"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFC6&center=true&vCenter=true&width=700&lines=SYSTEM+DESIGNER;SCP%3ASL+MODDING;BACKEND+%26+AUTOMATION;BUILD+%E2%86%92+BREAK+%E2%86%92+IMPROVE"/>
 </p>
 
